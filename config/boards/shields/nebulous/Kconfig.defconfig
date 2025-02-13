@@ -1,0 +1,6 @@
+if SHIELD_NEBULOUS
+
+config ZMK_KEYBOARD_NAME
+	default "nebulous"
+	
+endif
