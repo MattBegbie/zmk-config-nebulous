@@ -13,8 +13,8 @@
                 &kp H   &kp J   &kp K   &kp L  &kp RET
                 &kp N   &kp M   &kp SEMI   &kp DOT  &kp COLON
                 &kp U   &kp V   &kp W   &kp X &kp Y
-                &kp Z   &kp N1
-                &kp BSPC 
+                &kp SPACE   &kp N1
+                &kp RET 
             >;
             
         };
