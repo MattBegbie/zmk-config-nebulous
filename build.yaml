@@ -18,11 +18,8 @@
 #     artifact-name: corne_left_with_studio
 #
 
----
 include:
-  - board: nrf52840_mdk
+  - board: nice_nano_v2
     shield: nebulous_left
   - board: nice_nano_v2
     shield: nebulous_right
- # - board: nice_nano_v2
- #   shield: corne_right
