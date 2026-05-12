@@ -1,2 +1,5 @@
-config SHIELD_NEBULOUS
-	def_bool $(shields_list_contains, nebulous)
+config SHIELD_NEBULOUS_LEFT
+    def_bool $(shields_list_contains,nebulous_left)
+
+config SHIELD_NEBULOUS_RIGHT
+    def_bool $(shields_list_contains,nebulous_right)
